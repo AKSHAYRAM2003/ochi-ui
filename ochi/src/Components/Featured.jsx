@@ -18,7 +18,7 @@ function Featured() {
   };
 
   return (
-    <div className="w-full py-20 bg-black">
+    <div className="w-full py-20 bg-zinc-900">
       <div
         className="w-full px-[4.5vw] border-b-[1px] border-zinc-500 pb-10"
       >
@@ -138,7 +138,7 @@ function Featured() {
       </div>
 
       <div className="grid place-items-center pt-[10vw]">
-        <button className="group flex gap-[2vw] items-center px-[2vw] py-[1.2vw] mt-[0.5vw] bg-zinc-900 rounded-full text-white hover:bg-black font-['nav']">
+        <button className="group flex gap-[2vw] items-center px-[2vw] py-[1.2vw] mt-[0.5vw] bg-zinc-800 rounded-full text-white hover:bg-black font-['nav']">
           VIEW ALL CASE STUDIES
           <div className="group-hover:scale-150 w-[0.8vw] h-[0.8vw] rounded-full bg-white"></div>
         </button>
