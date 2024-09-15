@@ -23,7 +23,7 @@ The **OCHI Dark Theme** is a visually appealing dark-mode version of the OCHI we
   
 ## 🚀 Live Demo
 
-Check out the live demo of the OCHI Dark Theme here: [Live Demo](https://superb-halva-34e874.netlify.app/)
+Check out the live demo of the OCHI Dark Theme here: [Live Demo](https://ochi-dark-ui.netlify.app/)
 
 ## 🛠️ Installation
 
